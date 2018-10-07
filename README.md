@@ -1,5 +1,7 @@
 # LabTools : 1MHz Differential Probe
 
+![view on the inside of the housing](images/open_housing_s.png)
+
 ## What
 
 This repository describes how to build your own (first) differential oscilloscope probe. In the respective folders you can find all necessary files to have the pcb produced, drawings on how to prepare the enclosure for final built-in, and detailed datasheets  on the used components.
