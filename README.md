@@ -1,5 +1,7 @@
 # LabTools : 1MHz Differential Probe
 
+![](https://img.shields.io/badge/project%20status-under%20construction-lightgrey.svg)
+
 ![view on the inside of the housing](images/open_housing_s.png)
 
 ## What
