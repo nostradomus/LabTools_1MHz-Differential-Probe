@@ -69,7 +69,9 @@ Coming soon.............
 
 #### Demo setup and measurements
 
-...more info on the actual test setup will follow later...
+[![test setup](images/test_setup_s.png)](images/test_setup.png)
+
+...more details concerning the test setup will be added later...
 
 ### Mechanical construction
 
