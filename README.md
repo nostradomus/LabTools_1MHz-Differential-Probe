@@ -49,7 +49,7 @@ Todo : more info is coming...
 ### Input specifications
 
 - 1:1 active differential probe
-- 1MHz off bandwith
+- 1MHz bandwith
 - max 700Vpp (depending on the specifications of R1,R2,C1 and C2)
 
 ### Electronics
